@@ -4,7 +4,7 @@
   "instagram_sources": [
     "https://www.instagram.com/try_applyy/"
   ],
-  "lookback_hours": 72,
+  "lookback_hours": 120,
   "results_per_profile": 8,
   "stories_per_carousel": 3,
   "source_domains": [
@@ -27,5 +27,6 @@
     "stability.ai",
     "midjourney.com",
     "adobe.com"
-  ]
+  ],
+  "candidate_stories": 8
 }
