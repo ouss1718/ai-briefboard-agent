@@ -1,0 +1,50 @@
+name: Daily AI Briefboard
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ai-briefboard-daily
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Prepare today's original carousel
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-5.4-mini
+        run: python -m agent.main prepare
+      - name: Commit public images before scheduling
+        run: |
+          git config user.name 'AI Briefboard Bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add published/
+          if ! git diff --cached --quiet; then
+            git commit -m "Create daily carousel images"
+            git push
+          fi
+      - name: Schedule on Instagram through Buffer
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          BUFFER_CHANNEL_ID: ${{ secrets.BUFFER_CHANNEL_ID }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python -m agent.main publish
+      - name: Record successful post
+        run: |
+          git add data/history.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Record scheduled AI brief"
+            git push
+          fi
