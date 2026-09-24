@@ -218,8 +218,15 @@ def research(history, config):
 def prepare():
     config = json.loads((ROOT / "config.json").read_text())
     history = json.loads((ROOT / "data/history.json").read_text())
-    if TODAY in history["posted_dates"] or MANIFEST.exists():
-        print("Already prepared or published today; no new draft")
+    if TODAY in history["posted_dates"]:
+        print("Already published today; no new draft")
+        return
+    if MANIFEST.exists():
+        # Prepared earlier but not yet scheduled: re-render the same verified stories, no new research.
+        manifest = json.loads(MANIFEST.read_text())
+        manifest["filenames"] = render_carousel(manifest["stories"], TODAY, MANIFEST.parent, config)
+        MANIFEST.write_text(json.dumps(manifest, indent=2, ensure_ascii=False))
+        print(f"Re-rendered today's {len(manifest['stories'])} verified stories; no new research")
         return
     stories = research(history, config)
     if not stories:
@@ -283,6 +290,7 @@ def publish():
                         json={"query": query, "variables": {"input": {
                             "text": manifest["caption"], "channelId": os.environ["BUFFER_CHANNEL_ID"],
                             "schedulingType": "automatic", "mode": "customScheduled", "dueAt": due_at,
+                            "metadata": {"instagram": {"type": "post", "shouldShareToFeed": True}},
                             "assets": [{"image": {"url": url}} for url in urls]}}})
     if data.get("errors"):
         raise RuntimeError("Buffer GraphQL request failed: " + str(data["errors"]))

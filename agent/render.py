@@ -64,21 +64,24 @@ def render_carousel(stories, date, output, config):
     im, d = base(1, total, date, "the daily brief · " + date)
     y = draw_lines(d, "AI news,", (66, 420), 950, 108, CREAM, True)
     draw_lines(d, "made clear.", (66, y + 10), 950, 108, LIME, True)
-    d.text((68, 954), f"{len(stories)} updates. Original sources.", font=font(40), fill=CREAM)
+    count = f"{len(stories)} update" + ("" if len(stories) == 1 else "s")
+    d.text((68, 954), f"{count}. Original sources.", font=font(40), fill=CREAM)
     d.text((68, 1022), "Swipe for what matters  →", font=font(38), fill=MUTED)
     names.append("01_cover.png")
     im.save(output / names[-1], optimize=True)
 
     for index, story in enumerate(stories, 2):
-        im, d = base(index, total, date, f"update {index - 1:02d}")
-        y = draw_lines(d, story["headline"], (66, 376), 930, 75, CREAM, True, 22)
-        d.rounded_rectangle((66, y + 46, 1014, y + 56), radius=5, fill=LIME)
-        y = draw_lines(d, story["summary"], (66, y + 117), 925, 43, CREAM, spacing=18)
-        y = max(y + 55, 905)
-        d.text((66, y), "WHY IT MATTERS", font=font(28, True), fill=LIME)
-        draw_lines(d, story["why_it_matters"], (66, y + 60), 925, 37, CREAM)
-        domain = urlsplit(story["source_url"]).hostname or "original source"
-        d.text((66, 1160), f"SOURCE  {domain[:48]}", font=font(25), fill=MUTED)
+        # Shrink text step by step until the slide fits above the footer line.
+        for head, body, why in [(75, 43, 35), (68, 39, 32), (62, 35, 29), (56, 32, 27)]:
+            im, d = base(index, total, date, f"update {index - 1:02d}")
+            y = draw_lines(d, story["headline"], (66, 376), 930, head, CREAM, True, 22)
+            d.rounded_rectangle((66, y + 40, 1014, y + 50), radius=5, fill=LIME)
+            y = draw_lines(d, story["summary"], (66, y + 100), 925, body, CREAM, spacing=16)
+            y = max(y + 45, 840)
+            d.text((66, y), "WHY IT MATTERS", font=font(28, True), fill=LIME)
+            y = draw_lines(d, story["why_it_matters"], (66, y + 54), 925, why, CREAM, spacing=14)
+            if y <= 1200:
+                break
         names.append(f"{index:02d}_story.png")
         im.save(output / names[-1], optimize=True)
 
