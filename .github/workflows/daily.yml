@@ -1,7 +1,6 @@
 name: Daily AI Briefboard
 on:
-  schedule:
-    - cron: '0 8 * * *'
+  # Daily schedule will be enabled after API credentials and billing are verified.
   workflow_dispatch:
 permissions:
   contents: write
