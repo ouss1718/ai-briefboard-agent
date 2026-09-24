@@ -1,0 +1,31 @@
+{
+  "brand": "THE AI BRIEFBOARD",
+  "handle": "@theaibriefboard",
+  "instagram_sources": [
+    "https://www.instagram.com/try_applyy/"
+  ],
+  "lookback_hours": 72,
+  "results_per_profile": 8,
+  "stories_per_carousel": 3,
+  "source_domains": [
+    "openai.com",
+    "anthropic.com",
+    "blog.google",
+    "deepmind.google",
+    "microsoft.com",
+    "blogs.microsoft.com",
+    "meta.com",
+    "ai.meta.com",
+    "nvidia.com",
+    "huggingface.co",
+    "github.blog",
+    "aws.amazon.com",
+    "aboutamazon.com",
+    "perplexity.ai",
+    "x.ai",
+    "runwayml.com",
+    "stability.ai",
+    "midjourney.com",
+    "adobe.com"
+  ]
+}
