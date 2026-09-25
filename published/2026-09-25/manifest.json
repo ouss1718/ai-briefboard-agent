@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-25",
+  "stories": [
+    {
+      "headline": "Claude Opus 5.5 debuts with lower costs",
+      "summary": "Anthropic launched Claude Opus 5.5 on 2026-09-22, calling it its new top Claude model with better performance and 40% lower running cost than Opus 5.",
+      "why_it_matters": "A major frontier-model update with immediate product and pricing impact.",
+      "source_url": "https://www.anthropic.com/claude-opus-5-5?trk=public_post_comment-text",
+      "announcement_date": "2026-09-22"
+    },
+    {
+      "headline": "Google opens Project Suncatcher test",
+      "summary": "On 2026-09-24, Google said Project Suncatcher will begin a first orbital test of TPU hardware for future AI compute in space.",
+      "why_it_matters": "A bold new compute path that could reshape AI infrastructure.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "announcement_date": "2026-09-24"
+    },
+    {
+      "headline": "Google adds AI to YouTube ads",
+      "summary": "Google’s 2026-09-24 Demand Gen update introduced a conversational Business Agent for YouTube ads and other AI-enabled ad features.",
+      "why_it_matters": "Brings AI assistants deeper into ad buying and commerce.",
+      "source_url": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
+      "announcement_date": "2026-09-24"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-09-25\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.anthropic.com/claude-opus-5-5?trk=public_post_comment-text\n2. https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/\n3. https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/\n\n#AINews #ArtificialIntelligence #AITools"
+}
