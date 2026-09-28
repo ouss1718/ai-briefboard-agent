@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-28",
+  "stories": [
+    {
+      "headline": "Google publishes long-form video research",
+      "summary": "Google Research introduced a multi-agent system for coherent long-form video generation.",
+      "why_it_matters": "Could improve AI video workflows for creators, ads, and entertainment.",
+      "source_url": "https://research.google/blog/coherent-long-form-video-generation/",
+      "announcement_date": "2026-09-24"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-09-28\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://research.google/blog/coherent-long-form-video-generation/\n\n#AINews #ArtificialIntelligence #AITools"
+}
