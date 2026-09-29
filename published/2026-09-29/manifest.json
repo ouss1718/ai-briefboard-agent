@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-29",
+  "stories": [
+    {
+      "headline": "King’s launches Autonomous Labs",
+      "summary": "King’s College London launched a cross-university initiative using AI, robotics, and automation to speed up experiments.",
+      "why_it_matters": "Pushes AI deeper into real lab science and faster discovery.",
+      "source_url": "https://www.kcl.ac.uk/news/kings-launches-initiative-to-accelerate-scientific-discovery-with-ai",
+      "announcement_date": "2026-09-28"
+    },
+    {
+      "headline": "Modulate raises $25M for voice AI",
+      "summary": "Modulate announced fresh funding to expand its audio-native AI stack, developer tools, and deployment options.",
+      "why_it_matters": "Signals investor demand for AI that understands voice context.",
+      "source_url": "https://www.modulate.ai/press-releases/modulate-raises-25m-to-scale-its-lead-in-frontier-audio-native-ai",
+      "announcement_date": "2026-09-28"
+    },
+    {
+      "headline": "Harvard launches $150M research push",
+      "summary": "Harvard announced a new research initiative tied to advanced computing and commercial AI models for science.",
+      "why_it_matters": "Major university funding could accelerate AI-enabled research work.",
+      "source_url": "https://news.harvard.edu/gazette/story/2026/09/harvard-launches-150-million-research-initiative/",
+      "announcement_date": "2026-09-28"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-09-29\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.kcl.ac.uk/news/kings-launches-initiative-to-accelerate-scientific-discovery-with-ai\n2. https://www.modulate.ai/press-releases/modulate-raises-25m-to-scale-its-lead-in-frontier-audio-native-ai\n3. https://news.harvard.edu/gazette/story/2026/09/harvard-launches-150-million-research-initiative/\n\n#AINews #ArtificialIntelligence #AITools"
+}
