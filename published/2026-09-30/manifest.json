@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-30",
+  "stories": [
+    {
+      "headline": "OpenAI debuts always-on AI agent Dots",
+      "summary": "OpenAI said Dots is a new always-on agent, alongside GPT-6.1 Sol and Ultrafast, in its Sept. 29 developer announcements.",
+      "why_it_matters": "Big product shift toward persistent AI assistants.",
+      "source_url": "https://openai.com/news/",
+      "announcement_date": "2026-09-29"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-09-30\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://openai.com/news/\n\n#AINews #ArtificialIntelligence #AITools"
+}
