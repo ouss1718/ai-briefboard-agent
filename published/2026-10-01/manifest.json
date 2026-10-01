@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-01",
+  "stories": [
+    {
+      "headline": "Anthropic launches Claude Sonnet 5.5",
+      "summary": "Anthropic released Sonnet 5.5, saying it is faster and cheaper for most work than Sonnet 5.",
+      "why_it_matters": "A new flagship model refresh with immediate product impact.",
+      "source_url": "https://www.anthropic.com/news",
+      "announcement_date": "2026-09-28"
+    },
+    {
+      "headline": "Microsoft unveils Quine for biology",
+      "summary": "Microsoft Research introduced Quine, an early AI system aimed at building a multimodal world model of biology.",
+      "why_it_matters": "Could speed discovery across datasets, tools, and labs.",
+      "source_url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "announcement_date": "2026-09-29"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-01\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.anthropic.com/news\n2. https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/\n\n#AINews #ArtificialIntelligence #AITools"
+}
