@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-03",
+  "stories": [
+    {
+      "headline": "OpenADMET secures $34.8M in funding",
+      "summary": "Octant announced new funding for the open science AI drug-discovery effort with UCSF and OMSF.",
+      "why_it_matters": "More money for AI-driven biology and therapeutics infrastructure.",
+      "source_url": "https://www.octant.bio/news/octant-announces-new-funding-to-expand-openadmet",
+      "announcement_date": "2026-09-30"
+    },
+    {
+      "headline": "Georgetown launches campus AI initiative",
+      "summary": "Georgetown announced a university-wide AI framework for teaching, research, and other mission work.",
+      "why_it_matters": "Another sign universities are formalizing AI use across campus.",
+      "source_url": "https://president.georgetown.edu/messages/ai-initiative-sep-2026/",
+      "announcement_date": "2026-09-28"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-03\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.octant.bio/news/octant-announces-new-funding-to-expand-openadmet\n2. https://president.georgetown.edu/messages/ai-initiative-sep-2026/\n\n#AINews #ArtificialIntelligence #AITools"
+}
