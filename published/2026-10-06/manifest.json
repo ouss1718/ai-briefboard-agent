@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-06",
+  "stories": [
+    {
+      "headline": "Google releases private federated learning system",
+      "summary": "Google Research announced a new federated learning system with verifiable privacy guarantees and faster training.",
+      "why_it_matters": "Privacy-preserving AI can make on-device learning more practical.",
+      "source_url": "https://www.research.google/blog/toward-provably-private-learning-from-federated-data/",
+      "announcement_date": "2026-10-02"
+    },
+    {
+      "headline": "Penn GSE launches human-centered AI lab",
+      "summary": "Penn GSE launched a Living Laboratory to study how AI affects teaching, learning, and student agency.",
+      "why_it_matters": "Education-focused AI research shapes safer classroom adoption.",
+      "source_url": "https://www.gse.upenn.edu/news/ai-transforms-education-penn-gse-launches-living-laboratory-keep-humans-center",
+      "announcement_date": "2026-10-06"
+    },
+    {
+      "headline": "Microsoft rolls out faster speech AI models",
+      "summary": "Microsoft announced new AI models for faster transcription and multilingual voices.",
+      "why_it_matters": "Audio AI upgrades can improve accessibility and global product reach.",
+      "source_url": "https://news.microsoft.com/source/tag/ai/?msockid=053b880312c266d30c1e9ef113e367e2",
+      "announcement_date": "2026-10-01"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-06\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.research.google/blog/toward-provably-private-learning-from-federated-data/\n2. https://www.gse.upenn.edu/news/ai-transforms-education-penn-gse-launches-living-laboratory-keep-humans-center\n3. https://news.microsoft.com/source/tag/ai/?msockid=053b880312c266d30c1e9ef113e367e2\n\n#AINews #ArtificialIntelligence #AITools"
+}
