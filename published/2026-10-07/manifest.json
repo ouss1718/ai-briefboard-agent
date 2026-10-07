@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-07",
+  "stories": [
+    {
+      "headline": "OpenAI deepens computer-use training",
+      "summary": "OpenAI detailed a new Ironclad partnership to train and evaluate agents on complex contracting workflows.",
+      "why_it_matters": "Shows where agentic AI is heading in real professional work.",
+      "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad/",
+      "announcement_date": "2026-10-06"
+    },
+    {
+      "headline": "Google Research launches Earth AI health",
+      "summary": "Google Research unveiled Earth AI geospatial foundation models aimed at global public health use cases.",
+      "why_it_matters": "Earth observation plus AI could improve outbreak and risk response.",
+      "source_url": "https://www.research.google/blog/2026/10/",
+      "announcement_date": "2026-10-06"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-07\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://openai.com/index/advancing-computer-use-with-ironclad/\n2. https://www.research.google/blog/2026/10/\n\n#AINews #ArtificialIntelligence #AITools"
+}
