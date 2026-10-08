@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-08",
+  "stories": [
+    {
+      "headline": "Anthropic expands Cyber Verification Program",
+      "summary": "Anthropic widened its cyber safety program, adding more access for qualified security professionals.",
+      "why_it_matters": "It shows frontier labs are shipping stronger safety and security tools.",
+      "source_url": "https://www.anthropic.com/news/cyber-verification-program",
+      "announcement_date": "2026-10-06"
+    },
+    {
+      "headline": "Anthropic launches Claude Haiku 5.5",
+      "summary": "Anthropic introduced Claude Haiku 5.5, a faster and cheaper model in its lineup.",
+      "why_it_matters": "Smaller frontier models are getting more capable and affordable.",
+      "source_url": "https://www.anthropic.com/claude-haiku-5-5",
+      "announcement_date": "2026-10-07"
+    },
+    {
+      "headline": "ICO opens AI agent evidence call",
+      "summary": "The UK ICO announced new changes for AI developers and launched a call for evidence on agentic AI.",
+      "why_it_matters": "Regulators are moving from theory to concrete AI oversight.",
+      "source_url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/",
+      "announcement_date": "2026-10-08"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-08\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.anthropic.com/news/cyber-verification-program\n2. https://www.anthropic.com/claude-haiku-5-5\n3. https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/\n\n#AINews #ArtificialIntelligence #AITools"
+}
