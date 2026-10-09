@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-09",
+  "stories": [
+    {
+      "headline": "Anthropic launches Cyber Mission",
+      "summary": "Anthropic introduced a new program to support defenders, starting with critical infrastructure protection and open-source vulnerability scanning.",
+      "why_it_matters": "A notable expansion of frontier AI into cybersecurity.",
+      "source_url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "announcement_date": "2026-10-08"
+    },
+    {
+      "headline": "OpenAI rolls out GPT-6 with Intelligent UI",
+      "summary": "OpenAI said GPT-6 now brings more visual, interactive responses and can start answering before finishing all internal work.",
+      "why_it_matters": "A flagship model and interface update for ChatGPT.",
+      "source_url": "https://openai.com/index/gpt-6-for-everyone/",
+      "announcement_date": "2026-10-07"
+    },
+    {
+      "headline": "Google Research shares AI privacy findings",
+      "summary": "Google Research published work on open and emergent problems in agentic privacy and security from a contextual angle.",
+      "why_it_matters": "Research on AI safety and privacy guides deployment choices.",
+      "source_url": "https://research.google/blog/?hl=fr&m=1",
+      "announcement_date": "2026-10-05"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-09\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.anthropic.com/news/anthropic-cyber-mission\n2. https://openai.com/index/gpt-6-for-everyone/\n3. https://research.google/blog/?hl=fr&m=1\n\n#AINews #ArtificialIntelligence #AITools"
+}
