@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-10",
+  "stories": [
+    {
+      "headline": "OpenAI rolls out GPT-6 to everyone",
+      "summary": "OpenAI said GPT-6 is launching in ChatGPT across free and paid plans worldwide.",
+      "why_it_matters": "A major consumer model release can quickly reshape everyday AI use.",
+      "source_url": "https://openai.com/research/index/publication/",
+      "announcement_date": "2026-10-07"
+    },
+    {
+      "headline": "Anthropic commits $150M to science mission",
+      "summary": "Anthropic said it will fund the Genesis Mission and expand Claude access for U.S. research agencies.",
+      "why_it_matters": "Signals AI labs are deepening ties to national science infrastructure.",
+      "source_url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "announcement_date": "2026-10-08"
+    },
+    {
+      "headline": "Anthropic updates its usage policy",
+      "summary": "Anthropic published a new policy version and clarified rules for longer-running, higher-risk model use.",
+      "why_it_matters": "Policy changes shape how developers can deploy frontier models.",
+      "source_url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "announcement_date": "2026-10-08"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-10\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://openai.com/research/index/publication/\n2. https://www.anthropic.com/news/genesis-mission-commitment\n3. https://www.anthropic.com/news/2026-usage-policy-update\n\n#AINews #ArtificialIntelligence #AITools"
+}
