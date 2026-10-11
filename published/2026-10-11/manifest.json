@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-11",
+  "stories": [
+    {
+      "headline": "Google Cloud launches Gemini agent",
+      "summary": "Google Cloud announced Gemini agent, a work assistant that plans tasks, uses tools, and fits enterprise controls.",
+      "why_it_matters": "Google is betting on a universal business agent for office workflows.",
+      "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+      "announcement_date": "2026-10-08"
+    },
+    {
+      "headline": "NSF announces new AI science programs",
+      "summary": "The U.S. NSF said it will launch new programs to support AI for discovery, metascience, and early-career talent.",
+      "why_it_matters": "Public funding could shape the next wave of U.S. AI research.",
+      "source_url": "https://www.nsf.gov/news/nsf-lays-foundation-next-generation-technologies-support",
+      "announcement_date": "2026-10-08"
+    },
+    {
+      "headline": "UW–Madison starts embodied AI initiative",
+      "summary": "UW–Madison launched a campuswide embodied AI initiative focused on autonomous systems that work safely with people.",
+      "why_it_matters": "Embodied AI is moving from papers into coordinated campus research.",
+      "source_url": "https://cai.wisc.edu/2026/10/06/cai-co-leads-embodied-ai-initiative/",
+      "announcement_date": "2026-10-06"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-11\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/\n2. https://www.nsf.gov/news/nsf-lays-foundation-next-generation-technologies-support\n3. https://cai.wisc.edu/2026/10/06/cai-co-leads-embodied-ai-initiative/\n\n#AINews #ArtificialIntelligence #AITools"
+}
