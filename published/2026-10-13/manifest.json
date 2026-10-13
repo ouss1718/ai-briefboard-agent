@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-13",
+  "stories": [
+    {
+      "headline": "Rice launches a campuswide AI initiative",
+      "summary": "Rice said it will hire 75 faculty, build new facilities, and expand AI courses and degrees across the university.",
+      "why_it_matters": "Big university bet on AI talent, infrastructure, and training.",
+      "source_url": "https://news.rice.edu/news/2026/rice-launches-transformational-ai-initiative-faculty-hiring-new-programs-and-facilities",
+      "announcement_date": "2026-10-13"
+    },
+    {
+      "headline": "Google Public Sector and SUNY launch AI platform",
+      "summary": "Google and SUNY introduced an AI-enabled platform to help accelerate university research and reuse scientific workflows.",
+      "why_it_matters": "Could speed up academic research at scale across a large university system.",
+      "source_url": "https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/",
+      "announcement_date": "2026-10-08"
+    },
+    {
+      "headline": "Georgia Tech gets Google.org AI grant",
+      "summary": "Georgia Tech said Google.org is funding tools and workflows to expand AI for scientific discovery.",
+      "why_it_matters": "Fresh funding helps turn AI research ideas into usable scientific tools.",
+      "source_url": "https://www.gatech.edu/news/2026/10/09/georgia-tech-receives-5-million-googleorg-expand-access-ai-scientific-discovery-0",
+      "announcement_date": "2026-10-09"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-13\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://news.rice.edu/news/2026/rice-launches-transformational-ai-initiative-faculty-hiring-new-programs-and-facilities\n2. https://cloud.google.com/blog/topics/public-sector/gps-suny-launch-ai-enabled-platform-to-accelerate-university-research/\n3. https://www.gatech.edu/news/2026/10/09/georgia-tech-receives-5-million-googleorg-expand-access-ai-scientific-discovery-0\n\n#AINews #ArtificialIntelligence #AITools"
+}
