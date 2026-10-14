@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-14",
+  "stories": [
+    {
+      "headline": "Google backs European AI science with models",
+      "summary": "Google DeepMind and Google Cloud will give up to 200 European researchers access to frontier models plus $3M in compute credits.",
+      "why_it_matters": "Big new compute access for European AI-for-science work.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/",
+      "announcement_date": "2026-10-14"
+    },
+    {
+      "headline": "Google funds AI weather research in Ireland",
+      "summary": "Google.org announced a $5M commitment for AI-powered weather forecasting and climate research, including support for UCD-linked partners.",
+      "why_it_matters": "Climate and public-safety AI gets fresh research funding.",
+      "source_url": "https://blog.google/intl/en-ie/company-news/irish-weather/",
+      "announcement_date": "2026-10-13"
+    },
+    {
+      "headline": "Google expands AI help for disease research",
+      "summary": "Google says it is using AI tools and open platforms to accelerate medical research, from brain mapping to faster genetic analysis.",
+      "why_it_matters": "Shows more AI-for-health deployment and research support.",
+      "source_url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
+      "announcement_date": "2026-10-12"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-14\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/\n2. https://blog.google/intl/en-ie/company-news/irish-weather/\n3. https://blog.google/innovation-and-ai/technology/health/ai-health-research/\n\n#AINews #ArtificialIntelligence #AITools"
+}
