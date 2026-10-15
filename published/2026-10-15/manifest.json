@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-15",
+  "stories": [
+    {
+      "headline": "Google expands Earth AI early access",
+      "summary": "Google opened early access to new experimental Earth AI capabilities and added $10 million in crisis-resilience and public-health funding.",
+      "why_it_matters": "Shows Google pushing AI into climate and humanitarian work.",
+      "source_url": "https://www.research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+      "announcement_date": "2026-10-14"
+    },
+    {
+      "headline": "Gemini 4 Argon goes global",
+      "summary": "Google launched Gemini 4 Argon for developers and enterprises, with access in the Gemini API, app, Search, and Antigravity.",
+      "why_it_matters": "A fresh flagship model release is likely to shape the competitive AI market.",
+      "source_url": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems/",
+      "announcement_date": "2026-10-13"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-15\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/\n2. https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems/\n\n#AINews #ArtificialIntelligence #AITools"
+}
