@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-16",
+  "stories": [
+    {
+      "headline": "Google ships Gemini 4 Argon on Cloud",
+      "summary": "Google made Gemini 4 Argon generally available on Google Cloud, Gemini for business, AI Studio, and Antigravity.",
+      "why_it_matters": "A major new model release with immediate enterprise access and pricing.",
+      "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud",
+      "announcement_date": "2026-10-13"
+    },
+    {
+      "headline": "UB backs public-good AI statement",
+      "summary": "The University at Buffalo released the Buffalo Statement, urging AI systems and infrastructure that serve the public good.",
+      "why_it_matters": "It adds higher-ed pressure for policy, governance, and public AI infrastructure.",
+      "source_url": "https://www.buffalo.edu/news/releases/2026/10/Buffalo-Statement-calls-for-AI-to-serve-the-public-good.html",
+      "announcement_date": "2026-10-14"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-16\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud\n2. https://www.buffalo.edu/news/releases/2026/10/Buffalo-Statement-calls-for-AI-to-serve-the-public-good.html\n\n#AINews #ArtificialIntelligence #AITools"
+}
