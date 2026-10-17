@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-17",
+  "stories": [
+    {
+      "headline": "Google launches Deep Review publicly",
+      "summary": "Google Research released Deep Review, an AI system for rigorous feedback and verification on complex technical documents.",
+      "why_it_matters": "Useful for research, reviews, and trust checks on AI-written work.",
+      "source_url": "https://www.research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "announcement_date": "2026-10-14"
+    },
+    {
+      "headline": "OpenAI shares math research results",
+      "summary": "OpenAI published new mathematics results from an internal frontier model and released proof formalizations and technical details.",
+      "why_it_matters": "A notable research signal on AI-assisted discovery.",
+      "source_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "announcement_date": "2026-10-15"
+    },
+    {
+      "headline": "Google opens geospatial agents",
+      "summary": "Google Research published geospatial agent work that links Earth AI models for cross-modal questions and analysis.",
+      "why_it_matters": "Another step toward practical AI agents for science and mapping.",
+      "source_url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+      "announcement_date": "2026-10-14"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-17\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.research.google/blog/analyzing-technical-documents-with-deep-review/\n2. https://openai.com/index/sharing-ai-progress-in-mathematics/\n3. https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/\n\n#AINews #ArtificialIntelligence #AITools"
+}
