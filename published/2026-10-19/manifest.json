@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-19",
+  "stories": [
+    {
+      "headline": "Simons Foundation launches $15M math AI effort",
+      "summary": "The Simons Foundation announced a $15 million initiative to help mathematicians adapt to AI’s growing role in the field.",
+      "why_it_matters": "A notable funding bet on AI-assisted research methods.",
+      "source_url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "announcement_date": "2026-10-15"
+    },
+    {
+      "headline": "Anthropic adds public benefit fund",
+      "summary": "Anthropic committed a portion of its shares to a public benefit fund designed to scale future charitable impact.",
+      "why_it_matters": "Shows how AI firms are experimenting with new public-good governance structures.",
+      "source_url": "https://www.anthropic.com/news/public-benefit-fund",
+      "announcement_date": "2026-10-18"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-19\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/\n2. https://www.anthropic.com/news/public-benefit-fund\n\n#AINews #ArtificialIntelligence #AITools"
+}
