@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-20",
+  "stories": [
+    {
+      "headline": "Google expands AI Search updates",
+      "summary": "Google announced new AI Search updates to make web exploration more visual, engaging, and easier to browse.",
+      "why_it_matters": "Search is still the front door to AI for billions of users.",
+      "source_url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/",
+      "announcement_date": "2026-10-15"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-20\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/\n\n#AINews #ArtificialIntelligence #AITools"
+}
