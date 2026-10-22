@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-22",
+  "stories": [
+    {
+      "headline": "Asymptote Labs raises $5.5M seed round",
+      "summary": "Asymptote Labs announced a $5.5 million seed round to build runtime visibility and control infrastructure for enterprise AI agents.",
+      "why_it_matters": "Agent security and observability are becoming a hot market.",
+      "source_url": "https://www.asymptotelabs.ai/blog/asymptote-labs-raises-5-5m-seed-round",
+      "announcement_date": "2026-10-20"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-22\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.asymptotelabs.ai/blog/asymptote-labs-raises-5-5m-seed-round\n\n#AINews #ArtificialIntelligence #AITools"
+}
