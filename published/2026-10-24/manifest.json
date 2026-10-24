@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-24",
+  "stories": [
+    {
+      "headline": "UK launches AI Biosecurity Lab",
+      "summary": "The UK unveiled a national AI biosecurity lab backed by public funding and frontier-model support to speed defenses against biological threats.",
+      "why_it_matters": "A big government bet on AI-for-biosecurity could shape science and safety policy.",
+      "source_url": "https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab",
+      "announcement_date": "2026-10-24"
+    },
+    {
+      "headline": "ARPA-H funds Alzheimer’s projects",
+      "summary": "ARPA-H announced up to $48.8 million for new Alzheimer’s projects, including an AI-enabled platform at Washington University in St. Louis.",
+      "why_it_matters": "Fresh federal funding could accelerate AI-assisted biomedical research and trials.",
+      "source_url": "https://arpa-h.gov/news-and-events/alzheimers-projects",
+      "announcement_date": "2026-10-22"
+    },
+    {
+      "headline": "XRlabs raises $8.4M seed round",
+      "summary": "XRlabs announced $8.4 million in seed funding to build real-time surgical AI for operating rooms.",
+      "why_it_matters": "Shows investor demand for practical AI in healthcare workflows.",
+      "source_url": "https://xrlabs.ai/news/xrlabs-seed-funding-playground-global",
+      "announcement_date": "2026-10-19"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-24\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab\n2. https://arpa-h.gov/news-and-events/alzheimers-projects\n3. https://xrlabs.ai/news/xrlabs-seed-funding-playground-global\n\n#AINews #ArtificialIntelligence #AITools"
+}
