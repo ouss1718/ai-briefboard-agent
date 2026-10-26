@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-26",
+  "stories": [
+    {
+      "headline": "Mozilla opens funding call for community AI",
+      "summary": "Mozilla Foundation launched a new funding call for AI projects centered on community control and local data use.",
+      "why_it_matters": "Supports alternatives to centralized, data-hungry AI platforms.",
+      "source_url": "https://www.mozillafoundation.org/en/meet-mozilla/press-center/mozilla-foundation-opens-funding-call-for-ai-built-around-communities/",
+      "announcement_date": "2026-10-22"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-26\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.mozillafoundation.org/en/meet-mozilla/press-center/mozilla-foundation-opens-funding-call-for-ai-built-around-communities/\n\n#AINews #ArtificialIntelligence #AITools"
+}
