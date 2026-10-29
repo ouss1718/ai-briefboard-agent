@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-29",
+  "stories": [
+    {
+      "headline": "Dream Labs launches Dream-1 robot model",
+      "summary": "Dream Labs unveiled Dream-1, a world action model for unseen robots, and said it is also exiting stealth with $90M in seed funding.",
+      "why_it_matters": "A fresh robotics model plus major seed funding signals serious momentum.",
+      "source_url": "https://dreamlabs.ai/research/dream-1/",
+      "announcement_date": "2026-10-29"
+    },
+    {
+      "headline": "UK announces broader AI investment plan",
+      "summary": "The UK Chancellor announced hundreds of millions in AI-related investment, including a new AI Cyber Security Centre of Excellence.",
+      "why_it_matters": "Policy and infrastructure spending can shape national AI adoption fast.",
+      "source_url": "https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai",
+      "announcement_date": "2026-10-24"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-29\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://dreamlabs.ai/research/dream-1/\n2. https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai\n\n#AINews #ArtificialIntelligence #AITools"
+}
