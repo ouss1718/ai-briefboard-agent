@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-30",
+  "stories": [
+    {
+      "headline": "Google DeepMind unveils Genie 4 world model",
+      "summary": "Google announced Genie 4, a real-time world model with native audio and interactive scene control.",
+      "why_it_matters": "Could speed up agent training and new creative tools.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
+      "announcement_date": "2026-10-27"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-30\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/\n\n#AINews #ArtificialIntelligence #AITools"
+}
