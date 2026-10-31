@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-31",
+  "stories": [
+    {
+      "headline": "Phonic launches Phonic-1 and Series A",
+      "summary": "Phonic introduced Phonic-1, its speech-to-speech model for agentic tasks, and disclosed a $27.5M Series A.",
+      "why_it_matters": "Voice-first AI agents are moving from demos to production systems.",
+      "source_url": "https://phonic.ai/blog/phonic-1",
+      "announcement_date": "2026-10-29"
+    },
+    {
+      "headline": "Purdue expands AI compute with Google TPU",
+      "summary": "Purdue said it will be the first U.S. university to deploy Google TPU infrastructure, boosting AI compute capacity.",
+      "why_it_matters": "More academic access to advanced chips can speed research and training.",
+      "source_url": "https://www.purdue.edu/newsroom/2026/Q4/purdue-is-first-u-s-university-to-deploy-google-tpu-ai-infrastructure/",
+      "announcement_date": "2026-10-29"
+    },
+    {
+      "headline": "Voorhees launches AI institute with grant",
+      "summary": "Voorhees University said it won a U.S. Department of Labor grant to launch an Artificial Intelligence Institute.",
+      "why_it_matters": "New AI training centers can widen access to education and workforce prep.",
+      "source_url": "https://voorhees.edu/voorhees-university-awarded-1-19-million-u-s-department-of-labor-grant-to-launch-artificial-intelligence-institute/",
+      "announcement_date": "2026-10-30"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-10-31\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://phonic.ai/blog/phonic-1\n2. https://www.purdue.edu/newsroom/2026/Q4/purdue-is-first-u-s-university-to-deploy-google-tpu-ai-infrastructure/\n3. https://voorhees.edu/voorhees-university-awarded-1-19-million-u-s-department-of-labor-grant-to-launch-artificial-intelligence-institute/\n\n#AINews #ArtificialIntelligence #AITools"
+}
