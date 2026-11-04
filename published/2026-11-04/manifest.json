@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-04",
+  "stories": [
+    {
+      "headline": "Google funds AI tools for teachers",
+      "summary": "Google.org is giving over $9.5 million to five groups building AI tools and training for educators.",
+      "why_it_matters": "More AI in classrooms, with real funding behind it.",
+      "source_url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+      "announcement_date": "2026-11-03"
+    },
+    {
+      "headline": "Google expands AI research in Singapore",
+      "summary": "Google is opening a Singapore research hub and adding over $6 million in grants for NUS and NTU projects.",
+      "why_it_matters": "It boosts AI-for-science, safety, and compute research in Asia.",
+      "source_url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
+      "announcement_date": "2026-11-03"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-04\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/\n2. https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/\n\n#AINews #ArtificialIntelligence #AITools"
+}
