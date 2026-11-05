@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-05",
+  "stories": [
+    {
+      "headline": "Anthropic posts progress on provable inference",
+      "summary": "Anthropic shared an update on provable inference research, outlining intermediate results and open problems in making model reasoning more reliable.",
+      "why_it_matters": "Could improve AI trustworthiness, safety, and verification.",
+      "source_url": "https://www.anthropic.com/research/provable-inference",
+      "announcement_date": "2026-11-02"
+    },
+    {
+      "headline": "US launches AI research funding push",
+      "summary": "A federal funding notice opened support for AI-enabled scientific discovery, aiming to advance AI-ready datasets and research infrastructure.",
+      "why_it_matters": "New public money could accelerate AI research capacity.",
+      "source_url": "https://www.bumc.bu.edu/camed/research-impact/find-funding/announcements/",
+      "announcement_date": "2026-11-04"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-05\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.anthropic.com/research/provable-inference\n2. https://www.bumc.bu.edu/camed/research-impact/find-funding/announcements/\n\n#AINews #ArtificialIntelligence #AITools"
+}
