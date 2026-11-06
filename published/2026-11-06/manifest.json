@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-06",
+  "stories": [
+    {
+      "headline": "OpenAI releases GPT-6 Cyber",
+      "summary": "OpenAI added GPT-6 Cyber to help authorized users investigate vulnerabilities and verify fixes in test environments.",
+      "why_it_matters": "It targets safer security workflows with a specialized frontier model.",
+      "source_url": "https://developers.openai.com/api/docs/changelog?mw_entry=2026-09-10-f35b72a1a7114c5e",
+      "announcement_date": "2026-11-05"
+    },
+    {
+      "headline": "Cornell wins $10M AI trust award",
+      "summary": "Cornell said a new project will build infrastructure to make online communication more trustworthy in the AI era.",
+      "why_it_matters": "It backs research on combating AI-driven misinformation and conflict.",
+      "source_url": "https://news.cornell.edu/stories/2026/11/project-rebuild-trust-ai-era-lands-10m-moonshot-award",
+      "announcement_date": "2026-11-05"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-06\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://developers.openai.com/api/docs/changelog?mw_entry=2026-09-10-f35b72a1a7114c5e\n2. https://news.cornell.edu/stories/2026/11/project-rebuild-trust-ai-era-lands-10m-moonshot-award\n\n#AINews #ArtificialIntelligence #AITools"
+}
