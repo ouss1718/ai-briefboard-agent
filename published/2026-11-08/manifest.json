@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-08",
+  "stories": [
+    {
+      "headline": "Google opens Computational Discovery",
+      "summary": "Google began rolling out Computational Discovery, an AI science tool built with ERA and AlphaEvolve, and added MCP access.",
+      "why_it_matters": "It pushes AI deeper into day-to-day scientific coding and experimentation.",
+      "source_url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/?trk=article-ssr-frontend-pulse_little-text-block",
+      "announcement_date": "2026-11-03"
+    },
+    {
+      "headline": "Anthropic opens residency applications",
+      "summary": "Anthropic opened applications for its paid Residency program for established technical leaders interested in AI safety research.",
+      "why_it_matters": "It expands the pipeline of experienced people entering AI safety.",
+      "source_url": "https://alignment.anthropic.com/2026/anthropic-residency/",
+      "announcement_date": "2026-11-04"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-08\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/?trk=article-ssr-frontend-pulse_little-text-block\n2. https://alignment.anthropic.com/2026/anthropic-residency/\n\n#AINews #ArtificialIntelligence #AITools"
+}
