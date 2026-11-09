@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-09",
+  "stories": [
+    {
+      "headline": "Google ships TPU 8tx and 8i Max",
+      "summary": "Google unveiled two new TPU systems for training and inference, aimed at faster, larger-scale agentic AI workloads.",
+      "why_it_matters": "More custom AI hardware options for developers and clouds.",
+      "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "announcement_date": "2026-11-09"
+    },
+    {
+      "headline": "Google Research publishes Agile Deliberation",
+      "summary": "Google Research introduced a framework that helps build AI classifiers for subjective categories through iterative deliberation.",
+      "why_it_matters": "Useful work on alignment and human-in-the-loop labeling.",
+      "source_url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+      "announcement_date": "2026-11-04"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-09\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\n2. https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/\n\n#AINews #ArtificialIntelligence #AITools"
+}
