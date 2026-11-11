@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-11",
+  "stories": [
+    {
+      "headline": "Google launches Gemini 4 Carbon",
+      "summary": "Google made Gemini 4 Carbon available to developers, enterprises, scientists, and consumers, aiming at harder coding, debugging, and research tasks.",
+      "why_it_matters": "A fresh frontier model with broad access and lower task cost.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "announcement_date": "2026-11-10"
+    },
+    {
+      "headline": "Google announces MKA benchmark",
+      "summary": "Google and Artificial Analysis launched a new benchmark for multimodal agentic knowledge work on visually complex files.",
+      "why_it_matters": "Useful for comparing real-world agent performance.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+      "announcement_date": "2026-11-10"
+    },
+    {
+      "headline": "MIT publishes FLEX robot-learning study",
+      "summary": "MIT reported a new AI-assisted learning platform that helps robots interpret human instructions more flexibly.",
+      "why_it_matters": "Advances natural-language control for household robots.",
+      "source_url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "announcement_date": "2026-11-09"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-11\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/\n2. https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/\n3. https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109\n\n#AINews #ArtificialIntelligence #AITools"
+}
