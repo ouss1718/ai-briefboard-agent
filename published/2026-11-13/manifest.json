@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-13",
+  "stories": [
+    {
+      "headline": "UK backs Fractile with major funding",
+      "summary": "The UK government and British Business Bank announced backing for Fractile, a frontier AI hardware firm, in a round worth over £500 million.",
+      "why_it_matters": "Big public funding for AI chips signals a serious sovereign-compute push.",
+      "source_url": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware",
+      "announcement_date": "2026-11-11"
+    },
+    {
+      "headline": "MIT gets ARPA-H funding for AI herbicides",
+      "summary": "MIT-led researchers won up to $53 million to build generative AI tools for safer herbicide discovery.",
+      "why_it_matters": "AI is being used to speed up real-world chemistry and agriculture R&D.",
+      "source_url": "https://news.mit.edu/index.php/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+      "announcement_date": "2026-11-10"
+    },
+    {
+      "headline": "Cornell selects AI thought summits",
+      "summary": "Cornell chose five interdisciplinary teams for 2026-27 Thought Summits on AI and data science.",
+      "why_it_matters": "It seeds new cross-campus research on emerging AI questions.",
+      "source_url": "https://news.cornell.edu/index.php/stories/2026/11/five-cornell-thought-summits-explore-emerging-questions-ai-and-data-science",
+      "announcement_date": "2026-11-12"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-13\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware\n2. https://news.mit.edu/index.php/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110\n3. https://news.cornell.edu/index.php/stories/2026/11/five-cornell-thought-summits-explore-emerging-questions-ai-and-data-science\n\n#AINews #ArtificialIntelligence #AITools"
+}
