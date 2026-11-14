@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-14",
+  "stories": [
+    {
+      "headline": "Ohio State and Microsoft deepen AI partnership",
+      "summary": "Ohio State University and Microsoft announced a five-year partnership spanning clinical care, education, and research.",
+      "why_it_matters": "Another major university-industry AI collaboration.",
+      "source_url": "https://news.microsoft.com/source/tag/press-releases/",
+      "announcement_date": "2026-11-10"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-14\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://news.microsoft.com/source/tag/press-releases/\n\n#AINews #ArtificialIntelligence #AITools"
+}
