@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-15",
+  "stories": [
+    {
+      "headline": "Microsoft and Ohio State join on AI for health",
+      "summary": "Ohio State and Microsoft announced a five-year partnership to speed clinical care, research, and cloud-backed AI tools.",
+      "why_it_matters": "Big university-industry AI bet in healthcare.",
+      "source_url": "https://news.microsoft.com/source/2026/11/10/the-ohio-state-university-and-microsoft-announce-five-year-strategic-partnership-to-accelerate-innovation-across-clinical-care-education-and-research",
+      "announcement_date": "2026-11-10"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-15\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://news.microsoft.com/source/2026/11/10/the-ohio-state-university-and-microsoft-announce-five-year-strategic-partnership-to-accelerate-innovation-across-clinical-care-education-and-research\n\n#AINews #ArtificialIntelligence #AITools"
+}
