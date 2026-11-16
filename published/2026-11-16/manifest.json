@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-16",
+  "stories": [
+    {
+      "headline": "Google launches Gemini 4 Hydrogen",
+      "summary": "Google introduced Gemini 4 Hydrogen, a faster model for everyday coding and agentic workflows across Gemini products.",
+      "why_it_matters": "Brings a new general-purpose AI model to more users.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/?hl=fa",
+      "announcement_date": "2026-11-12"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-16\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/?hl=fa\n\n#AINews #ArtificialIntelligence #AITools"
+}
