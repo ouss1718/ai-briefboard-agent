@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-17",
+  "stories": [
+    {
+      "headline": "UK and Norway agree on AI cooperation",
+      "summary": "The UK and Norway signed a joint statement to deepen cooperation on AI research, compute, defense, safety, and governance.",
+      "why_it_matters": "Signals cross-border policy alignment on advanced AI.",
+      "source_url": "https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence",
+      "announcement_date": "2026-11-12"
+    },
+    {
+      "headline": "UKRI names 20 new Turing AI Fellows",
+      "summary": "UK Research and Innovation announced 20 Turing AI Fellows backed by more than £39 million to strengthen UK AI capability.",
+      "why_it_matters": "Major public funding for AI talent and research capacity.",
+      "source_url": "https://www.ukri.org/news/ukri-invests-in-20-turing-ai-fellows-to-strengthen-uk-capability/",
+      "announcement_date": "2026-11-16"
+    },
+    {
+      "headline": "Berkeley joins Schmidt Science Computing Network",
+      "summary": "UC Berkeley and Berkeley Lab will add the Berkeley Science AI Platform to expand high-performance computing for scientific discovery.",
+      "why_it_matters": "New compute can accelerate AI-driven research across disciplines.",
+      "source_url": "https://news.berkeley.edu/2026/11/16/uc-berkeley-berkeley-lab-collaboration-with-schmidt-science-computing-network-will-provide-high-performance-computing-for-cutting-edge-research/",
+      "announcement_date": "2026-11-16"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_story.png",
+    "05_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-17\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence\n2. https://www.ukri.org/news/ukri-invests-in-20-turing-ai-fellows-to-strengthen-uk-capability/\n3. https://news.berkeley.edu/2026/11/16/uc-berkeley-berkeley-lab-collaboration-with-schmidt-science-computing-network-will-provide-high-performance-computing-for-cutting-edge-research/\n\n#AINews #ArtificialIntelligence #AITools"
+}
