@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-18",
+  "stories": [
+    {
+      "headline": "Microsoft unveils AI Transparency Initiative",
+      "summary": "Microsoft launched a cross-industry effort with 40+ partners to improve visibility, verification, and governance for AI systems.",
+      "why_it_matters": "It could shape enterprise standards for trusted AI deployment across vendors.",
+      "source_url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents/",
+      "announcement_date": "2026-11-17"
+    },
+    {
+      "headline": "Google Australia launches AI skilling hub",
+      "summary": "Google Australia opened a hub with more than 1,000 free and low-cost courses in AI, cloud, and digital skills.",
+      "why_it_matters": "It broadens access to AI training for workers and educators.",
+      "source_url": "https://blog.google/intl/en-au/company-news/google-australia-launches-new-skilling-hub-to-give-australians-in-demand-ai-and-digital-skills/",
+      "announcement_date": "2026-11-18"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_story.png",
+    "04_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-18\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents/\n2. https://blog.google/intl/en-au/company-news/google-australia-launches-new-skilling-hub-to-give-australians-in-demand-ai-and-digital-skills/\n\n#AINews #ArtificialIntelligence #AITools"
+}
