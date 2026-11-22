@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-22",
+  "stories": [
+    {
+      "headline": "Google rolls out Genie 4",
+      "summary": "Google launched Genie 4 for interactive world generation, with real-time editing, native audio, and a shared gallery.",
+      "why_it_matters": "Shows AI moving beyond chat into playable, editable worlds.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "announcement_date": "2026-11-18"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-22\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\n\n#AINews #ArtificialIntelligence #AITools"
+}
