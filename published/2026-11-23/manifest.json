@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-23",
+  "stories": [
+    {
+      "headline": "Google Research posts new Duplex result",
+      "summary": "Google Research shared work showing how Duplex now helps Gemini place calls to businesses for users.",
+      "why_it_matters": "A practical step toward more useful AI assistants.",
+      "source_url": "https://research.google/blog/2026/11/",
+      "announcement_date": "2026-11-20"
+    }
+  ],
+  "filenames": [
+    "01_cover.png",
+    "02_story.png",
+    "03_sources.png"
+  ],
+  "caption": "AI Briefboard | 2026-11-23\n\nToday's AI updates, verified against the original announcements. Swipe for the brief.\n\nOriginal sources:\n1. https://research.google/blog/2026/11/\n\n#AINews #ArtificialIntelligence #AITools"
+}
